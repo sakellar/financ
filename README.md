@@ -1,1 +1,2 @@
 # financ
+Simple fintech code.
